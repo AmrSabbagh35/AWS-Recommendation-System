@@ -1,0 +1,94 @@
+
+
+
+---------------------------------------------------------------------------------------
+
+
+============================== Answers ================================ 
+
+
+
+
+
+
+
+------------------------ Computing : ------------------------
+
+1_ Amplify : 
+
+- AWS Amplify is a set of purpose-built tools and features that lets frontend web and mobile developers quickly and easily build full-stack applications on AWS, with the flexibility to leverage the breadth of AWS services as your use cases evolve. 
+With Amplify, you can configure a web or mobile app backend, connect your app in minutes, visually build a web frontend UI, and easily manage app content outside the AWS console. 
+Ship faster and scale effortlessly—with no cloud expertise needed.
+
+
+
+2_ Amazon Lambda :
+
+- AWS Lambda is a serverless, event-driven compute service that lets you run code for virtually any type of application or backend service without provisioning or managing servers. 
+You can trigger Lambda from over 200 AWS services and software as a service (SaaS) applications, and only pay for what you use.
+
+
+
+
+
+
+
+------------------------  Database : ------------------------
+
+3_ Relational Database Service : 
+
+- Amazon RDS is a managed relational database service for MySQL, PostgreSQL, MariaDB, Oracle BYOL, or SQL Server.
+
+
+------------------------ Web Tools : ------------------------  
+
+
+4_ Gateway : 
+
+- Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. 
+APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services. 
+
+5_ Location Service : 
+
+- Amazon Location Service makes it easy for developers to add location functionality to applications without compromising data security and user privacy.
+
+6_ Route 53 : 
+
+- Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. 
+It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications
+
+
+7_ Cloud Front : 
+
+- Amazon CloudFront is a content delivery network (CDN) service built for high performance, security, and developer convenience.
+
+
+8_ Amazon VPC : 
+
+- Amazon Virtual Private Cloud (Amazon VPC) gives you full control over your virtual networking environment, including resource placement, connectivity, and security.
+
+
+------------------------ Security : ------------------------  
+
+
+10_ Identity and Access Management (IAM) : 
+
+- AWS Identity and Access Management (IAM) provides fine-grained access control across all of AWS. 
+With IAM, you can specify who can access which services and resources, and under which conditions.
+With IAM policies, you manage permissions to your workforce and systems to ensure least-privilege permissions.
+
+
+11_ Amazon CloudWatch : 
+
+- CloudWatch provides you with data and actionable insights to monitor your applications, respond to system-wide performance changes, and optimize resource utilization. 
+CloudWatch collects monitoring and operational data in the form of logs, metrics, and events and notify the user. 
+
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+

@@ -1,0 +1,84 @@
+
+
+
+---------------------------------------------------------------------------------------
+
+
+============================== Answers ================================ 
+
+
+
+
+
+
+
+------------------------ Computing : ------------------------
+
+1_ Amazon Sumerian : 
+
+- Bring a new dimension to your web and mobile applications with Amazon Sumerian.
+3D immersive experiences are breathing new life into user experiences on the web
+increasing customer engagement with brands and improving productivity in the workplace. 
+Amazon Sumerian makes it easy to create engaging 3D front-end experiences and is integrated with AWS services to provide easy access to
+machine learning, chatbots, code execution and more. As a web-based platform
+your immersive experiences are accessible via a simple browser URL and are able to run on popular hardware for AR/VR.
+
+
+
+
+2_ Elastic Cloud Computing T3 Family :
+
+- Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. 
+It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. 
+It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+
+
+
+
+
+
+
+
+------------------------  Database : ------------------------
+
+3_ Amazon Aurora: 
+
+- Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud that combines 
+the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases.
+
+------------------------ Security : ------------------------  
+
+
+4_ Identity and Access Management (IAM) : 
+
+- AWS Identity and Access Management (IAM) provides fine-grained access control across all of AWS. 
+With IAM, you can specify who can access which services and resources, and under which conditions.
+With IAM policies, you manage permissions to your workforce and systems to ensure least-privilege permissions.
+
+
+
+5_ Amazon GuardDuty : 
+
+- Amazon GuardDuty is a threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation.
+
+
+6_ Amazon CloudWatch : 
+
+- CloudWatch provides you with data and actionable insights to monitor your applications, respond to system-wide performance changes, and optimize resource utilization. 
+CloudWatch collects monitoring and operational data in the form of logs, metrics, and events and notify the user. 
+
+
+
+
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

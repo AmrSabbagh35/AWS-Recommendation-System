@@ -1,0 +1,72 @@
+
+
+
+---------------------------------------------------------------------------------------
+
+
+============================== Answers ================================ 
+
+
+
+
+
+
+
+------------------------ Computing : ------------------------
+
+1_ Amazon Sumerian : 
+
+- Bring a new dimension to your web and mobile applications with Amazon Sumerian.
+3D immersive experiences are breathing new life into user experiences on the web
+increasing customer engagement with brands and improving productivity in the workplace. 
+Amazon Sumerian makes it easy to create engaging 3D front-end experiences and is integrated with AWS services to provide easy access to
+machine learning, chatbots, code execution and more. As a web-based platform
+your immersive experiences are accessible via a simple browser URL and are able to run on popular hardware for AR/VR.
+
+
+
+
+2_ Elastic Cloud Computing T4 Family :
+
+- Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. 
+It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. 
+It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+
+
+
+
+
+
+
+
+------------------------  Database : ------------------------
+
+3_ Relational Database Service : 
+
+- Amazon RDS is a managed relational database service for MySQL, PostgreSQL, MariaDB, Oracle BYOL, or SQL Server.
+
+
+
+------------------------ Security : ------------------------  
+
+
+4_ Identity and Access Management (IAM) : 
+
+- AWS Identity and Access Management (IAM) provides fine-grained access control across all of AWS. 
+With IAM, you can specify who can access which services and resources, and under which conditions.
+With IAM policies, you manage permissions to your workforce and systems to ensure least-privilege permissions.
+
+
+
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

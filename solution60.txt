@@ -1,0 +1,66 @@
+
+
+
+---------------------------------------------------------------------------------------
+
+
+============================== Answers ================================ 
+
+
+
+
+
+
+
+------------------------  Migration: ------------------------
+
+
+1_ Elastic Cloud Computing T4 Family : 	
+
+- Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. 
+It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. 
+It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+
+
+2_ Snow Ball : 
+
+- AWS Snowball is a petabyte-scale data transport service that uses secure devices to transfer large amounts of data into and out of the AWS Cloud up to 80 TB.
+3_ Amazon Elastic File System :
+
+- Amazon Elastic File System (Amazon EFS) automatically grows and shrinks as you add and remove files with no need for management or provisioning.
+
+
+------------------------ Security : ------------------------  
+
+
+4_ Identity and Access Management (IAM) : 
+
+- AWS Identity and Access Management (IAM) provides fine-grained access control across all of AWS. 
+With IAM, you can specify who can access which services and resources, and under which conditions.
+With IAM policies, you manage permissions to your workforce and systems to ensure least-privilege permissions.
+
+
+
+5_ Amazon CloudWatch : 
+
+- CloudWatch provides you with data and actionable insights to monitor your applications, respond to system-wide performance changes, and optimize resource utilization. 
+CloudWatch collects monitoring and operational data in the form of logs, metrics, and events and notify the user. 
+
+6_ Amazon VPC : 
+
+- Amazon Virtual Private Cloud (Amazon VPC) gives you full control over your virtual networking environment, including resource placement, connectivity, and security.
+
+
+
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+

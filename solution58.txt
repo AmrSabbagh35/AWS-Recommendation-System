@@ -1,0 +1,76 @@
+
+
+
+---------------------------------------------------------------------------------------
+
+
+============================== Answers ================================ 
+
+
+
+
+
+
+
+------------------------  Migration: ------------------------
+
+
+1_ Elastic Cloud Computing T3 Family : 	
+
+- Amazon Elastic Compute Cloud (Amazon EC2) is a web service that provides secure, resizable compute capacity in the cloud. 
+It is designed to make web-scale cloud computing easier for developers. 
+Amazon EC2’s simple web service interface allows you to obtain and configure capacity with minimal friction. 
+It provides you with complete control of your computing resources and lets you run on Amazon’s proven computing environment.
+
+
+2_ CloudEndure : 
+
+- an AWS company, now offers CloudEndure Migration to move applications from any physical, virtual, or cloud-based infrastructure to AWS.
+CloudEndure Migration simplifies, expedites, and reduces the cost of cloud migration by offering a highly automated lift-and-shift solution.
+
+------------------------ Security : ------------------------  
+
+
+4_ Identity and Access Management (IAM) : 
+
+- AWS Identity and Access Management (IAM) provides fine-grained access control across all of AWS. 
+With IAM, you can specify who can access which services and resources, and under which conditions.
+With IAM policies, you manage permissions to your workforce and systems to ensure least-privilege permissions.
+
+
+
+5_ Amazon GuardDuty : 
+
+- Amazon GuardDuty is a threat detection service that continuously monitors your AWS accounts and workloads for malicious activity and delivers detailed security findings for visibility and remediation.
+
+
+6_ Amazon CloudWatch : 
+
+- CloudWatch provides you with data and actionable insights to monitor your applications, respond to system-wide performance changes, and optimize resource utilization. 
+CloudWatch collects monitoring and operational data in the form of logs, metrics, and events and notify the user. 
+
+7_ Amazon VPC : 
+
+- Amazon Virtual Private Cloud (Amazon VPC) gives you full control over your virtual networking environment, including resource placement, connectivity, and security.
+
+8_ Route 53 : 
+
+- Amazon Route 53 is a highly available and scalable cloud Domain Name System (DNS) web service. 
+It is designed to give developers and businesses an extremely reliable and cost effective way to route end users to Internet applications
+
+9_ Gateway : 
+
+- Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale. 
+APIs act as the "front door" for applications to access data, business logic, or functionality from your backend services. 
+
+
+---------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
