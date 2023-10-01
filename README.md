@@ -1,5 +1,7 @@
 # AWS Cloud Services Recommendation Expert System
 
+![AWS](bg.jpg)
+
 ## Overview
 
 Welcome to the AWS Cloud Services Recommender! This expert system is designed to assist users in selecting the most appropriate cloud computing services in Amazon Web Services (AWS) based on their specific needs, budget, and preferences. It offers various approaches and recommendations to simplify the process of utilizing cloud services and introduces users to the latest techniques in cloud computing.
